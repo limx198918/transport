@@ -6,7 +6,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
  * 	网关
- * @author limingxue
+ * @author limx
  *
  */
 @SpringBootApplication

@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * 	网关
- * @author limx
+ * 	
+ * @author limingxue
  *
  */
 @SpringBootApplication

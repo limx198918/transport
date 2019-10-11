@@ -12,7 +12,7 @@ import com.alibaba.cloud.sentinel.annotation.SentinelRestTemplate;
 
 /**
  * 
- * @author limingxue
+ * @author 李名学
  *
  */
 @EnableDiscoveryClient

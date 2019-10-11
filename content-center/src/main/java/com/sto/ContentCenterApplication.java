@@ -11,8 +11,8 @@ import org.springframework.web.client.RestTemplate;
 import com.alibaba.cloud.sentinel.annotation.SentinelRestTemplate;
 
 /**
- * 
- * @author limingxue
+ *
+ * @author limingxue11
  *
  */
 @EnableDiscoveryClient
@@ -24,6 +24,10 @@ public class ContentCenterApplication {
 		SpringApplication.run(ContentCenterApplication.class, args);
 	}
 	
+	/**
+	 * resttemplate
+	 * @return
+	 */
 	@Bean
 	@LoadBalanced
 	@SentinelRestTemplate

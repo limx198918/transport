@@ -10,6 +10,11 @@ import org.springframework.web.client.RestTemplate;
 
 import com.alibaba.cloud.sentinel.annotation.SentinelRestTemplate;
 
+/**
+ * 
+ * @author limingxue
+ *
+ */
 @EnableDiscoveryClient
 @EnableFeignClients
 @SpringBootApplication
